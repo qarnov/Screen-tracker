@@ -1,15 +1,15 @@
 Tracking the desktop applications in real time and time spent on each application.
 
-Check out this for more https://youtu.be/ZBLYcvPl1MA 
+To run this , you must have python and pip manager installed.
 
-Dependencies:
-
-- selenium
-
-
-Windows Depencies
-
+Next you must have 3 dependencies installed:
 - pywin32
 - python-dateutil
 - uiautomation 
 
+You can install them running the following command in the terminal:
+pip install pywin32
+pip install python-dateutil
+pip install uiautomation 
+
+Next after running the code, you can check your logs at "activities.json" file
