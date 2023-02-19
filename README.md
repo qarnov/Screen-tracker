@@ -8,6 +8,7 @@ Next you must have 3 dependencies installed:
 - uiautomation 
 
 You can install them running the following command in the terminal:
+
 pip install pywin32
 pip install python-dateutil
 pip install uiautomation 
