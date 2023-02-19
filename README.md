@@ -10,7 +10,9 @@ Next you must have 3 dependencies installed:
 You can install them running the following command in the terminal:
 
 pip install pywin32
+
 pip install python-dateutil
+
 pip install uiautomation 
 
 Next after running the code, you can check your logs at "activities.json" file
