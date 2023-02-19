@@ -1,4 +1,4 @@
-Tracking the desktop applications in real time and time spent on each application.
+Screen tracker is a python script used for tracking the desktop applications in real time and time spent on each application.
 
 To run this , you must have python and pip manager installed.
 
