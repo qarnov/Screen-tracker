@@ -15,4 +15,5 @@ pip install python-dateutil
 
 pip install uiautomation 
 
-Next after running the code, you can check your logs at "activities.json" file
+Next after running autotimer.py, you can keep checking your logs at "activities.json" file
+ 
